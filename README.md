@@ -28,7 +28,7 @@ git clone [https://github.com/FlowFalcon/spam-pairing-wa](https://github.com/Jho
 ## Install in Windows with Gitbash
 You need to Install Nodejs and Git on your Device
 ```bash
-git clone [https://github.com/FlowFalcon/spam-pairing-wa](https://github.com/JhonStore/Infinity)
+git clone [https://github.com/JhonStore/Infinity](https://github.com/JhonStore/Infinity)
 ```
 
 ## Run spam-pairng-wa
