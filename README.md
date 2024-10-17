@@ -33,7 +33,7 @@ git clone [https://github.com/FlowFalcon/spam-pairing-wa](https://github.com/Jho
 
 ## Run spam-pairng-wa
 ```bash
-cd spam-pairing-wa
+cd Infinity
 npm install
 npm start
 ```
