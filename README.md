@@ -42,5 +42,5 @@ npm start
 <ul>
   <li><strong>Tiktok</strong>: <a href="https://www.tiktok.com/@jhon.store10">@jhon.store10</a></li>
   <li><strong>Website</strong>: <a href="https://jhonstore.github.io/DigitalMarket/">https://jhonstore.github.io/DigitalMarket/</a></li>
-  <li><strong>Github</strong>: <a href="https://jhonstore.github.io/DigitalMarket">https://jhonstore.github.io/DigitalMarket</a></li>
+  <li><strong>Github</strong>: <a href="https://github.com/JhonStore">https://github.com/JhonStore</a></li>
 </ul>
